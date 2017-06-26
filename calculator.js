@@ -17,7 +17,7 @@ function printanswer() {
 
 	if (operator == '+') {
 		uitkomst = parseInt(getal1 + getal2);
-		//alert(getal1 + '+' + getal2 + '=' + uitkomst );
+	//alert(getal1 + '+' + getal2 + '=' + uitkomst );
 	}
 
 	if (operator == '-') {
